@@ -1,0 +1,131 @@
+body {
+    background-color: white;
+}
+
+.img-with-text {
+    text-align: justify;
+    height : 46px;
+    width : 46px;
+}
+
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+    height : 46px;
+    width : 46px;
+}
+
+.icon {
+    height : 32px;
+    width : 32px;
+}
+
+.navButton {
+    text-align: center;
+    background-color: cornflowerblue;
+
+    font-size: larger;
+    border: 2px solid darkcyan;
+    display: inline-block;
+    width : 20%
+}
+
+br {
+    padding-bottom: 25px;
+}
+
+.header {
+    float: top;
+    padding-bottom: 85px;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float : left;
+}
+
+.pLeft {
+    padding-left: 50px;
+}
+
+.pLeftAlot {
+    padding-left: 150px;
+}
+
+.title {
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+.padButt {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.groupRow {
+    background-color: blue;
+}
+
+.aboutMe {
+    min-width : 50%;
+    padding-left: 25px;
+}
+
+.profilePhoto {
+    float: left;
+    padding-right: 7px;
+    padding-bottom:5px;
+}
+
+.rMargin {
+    margin-right: 16px;
+}
+
+.pwidth {
+    width : 90%
+}
+
+@media only screen and (min-width: 844px) {
+
+    .largeOnly {
+        visibility: visible;
+        display: block;
+    }
+
+    .smallOnly {
+        visibility: collapse;
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width: 843px) {
+
+    .largeOnly {
+        visibility: collapse;
+        display: none;
+    }
+
+    .smallOnly {
+        visibility: visible;
+        text-align: center;
+        display: block;
+    }
+}
+
+/*@media only screen and (max-width: 500px) {*/
+
+    /*.profilePhoto {*/
+        /*padding-bottom:15px;*/
+    /*}*/
+    /*.largeOnly {*/
+        /*visibility: hidden;*/
+    /*}*/
+
+    /*.mediumOnly {*/
+        /*visibility: hidden;*/
+    /*}*/
+/*}*/
