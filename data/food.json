@@ -1,38 +1,38 @@
 [
   {
-    "name" : "Cinnamon Roll",
+    "name" : "",
     "img" : "cinnnamonroll.jpg"
   },
   {
-    "name" : "Cup Cake",
+    "name" : "",
     "img" : "cupcake04.jpg"
   },
   {
-    "name" : "Tikka Masala",
+    "name" : "",
     "img" : "DSC_7247-1.jpg"
   },
   {
-    "name" : "Dumplings",
+    "name" : "",
     "img" : "dumpsandstuff.jpg"
   },
   {
-    "name" : "Pancakes",
+    "name" : "",
     "img" : "pancakes.jpg"
   },
   {
-    "name" : "Tacos",
+    "name" : "",
     "img" : "taco01.jpg"
   },
   {
-    "name" : "Sushi",
+    "name" : "",
     "img" : "topdown_single.jpg"
   },
   {
-    "name" : "Desert",
+    "name" : "",
     "img" : "trifle.jpg"
   },
   {
-    "name" : "Wine",
+    "name" : "",
     "img" : "wine.jpg"
   }
 ]
