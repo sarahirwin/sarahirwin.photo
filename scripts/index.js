@@ -10,7 +10,7 @@ runTemplate({ dataFile : 'nav.json', templateFile : 'navSide.html' }, function(h
     document.getElementById('navSide').innerHTML = html;
 });
 
-runTemplate({ dataFile : 'about.json', templateFile : 'about.html' }, function(html){
+runTemplate({ dataFile : 'food.json', templateFile : 'food.html' }, function(html){
     document.getElementById('content').innerHTML = html;
 });
 
